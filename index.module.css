@@ -1,0 +1,153 @@
+.landingPageChild {
+  	position: absolute;
+  	top: 589px;
+  	left: 552px;
+  	border-radius: 45px;
+  	background-color: #f8fcff;
+  	border: 5px solid #42ade2;
+  	box-sizing: border-box;
+  	width: 408px;
+  	height: 103px;
+}
+.emojiWavingHandSign {
+  	position: absolute;
+  	height: 7.11%;
+  	width: 5.2%;
+  	top: 61.61%;
+  	right: 37.72%;
+  	bottom: 31.28%;
+  	left: 57.08%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.findFiveNew {
+  	position: absolute;
+  	top: 339px;
+  	left: 227px;
+  	letter-spacing: -0.25px;
+  	line-height: 64px;
+  	display: inline-block;
+  	color: rgba(17, 155, 232, 0.7);
+  	width: 1057px;
+  	height: 59px;
+  	backdrop-filter: blur(4px);
+}
+.worriedAboutThe {
+  	position: absolute;
+  	top: 748px;
+  	left: 329px;
+  	font-size: 24px;
+  	line-height: 32px;
+  	display: inline-block;
+  	font-family: 'Roboto Flex';
+  	width: 854px;
+  	height: 49px;
+}
+.answerAFew {
+  	position: absolute;
+  	top: 453px;
+  	left: 148px;
+  	font-size: 28px;
+  	line-height: 36px;
+  	display: inline-block;
+  	width: 1215px;
+}
+.findMyFriends {
+  	position: absolute;
+  	top: 620px;
+  	left: 552px;
+  	font-size: 36px;
+  	line-height: 44px;
+  	display: inline-block;
+  	color: #42ade2;
+  	width: 350px;
+  	height: 41px;
+}
+.neverFeelAlone {
+  	position: absolute;
+  	top: 131px;
+  	left: 241px;
+  	font-size: 84px;
+  	font-family: 'Suez One';
+  	color: #119be8;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1029px;
+  	height: 221px;
+  	text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+.nufriends {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 293px;
+  	height: 78px;
+  	text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+.nufriendsWrapper {
+  	position: absolute;
+  	top: 60px;
+  	left: 36px;
+  	width: 293px;
+  	height: 78px;
+  	font-size: 54px;
+  	color: #119be8;
+  	font-family: 'Suez One';
+}
+.iconMail {
+  	position: absolute;
+  	height: 5.36%;
+  	width: 4.72%;
+  	top: 8.66%;
+  	right: 4.81%;
+  	bottom: 85.99%;
+  	left: 90.48%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.emojiWavingHandSign1 {
+  	position: absolute;
+  	height: 6.11%;
+  	width: 4.96%;
+  	top: 8.04%;
+  	right: 11.77%;
+  	bottom: 85.85%;
+  	left: 83.27%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.bustsInSilhouetteIcon {
+  	position: absolute;
+  	top: 69px;
+  	left: 1160px;
+  	width: 65px;
+  	height: 67.5px;
+  	overflow: hidden;
+}
+.landingPageItem {
+  	position: absolute;
+  	top: 32px;
+  	left: 317px;
+  	width: 75px;
+  	height: 105.7px;
+}
+.landingPage {
+  	width: 100%;
+  	position: relative;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background: linear-gradient(180deg, #e0f7ff 30%, #fff);
+  	height: 982px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 57px;
+  	color: #000;
+  	font-family: Roboto;
+}
+
